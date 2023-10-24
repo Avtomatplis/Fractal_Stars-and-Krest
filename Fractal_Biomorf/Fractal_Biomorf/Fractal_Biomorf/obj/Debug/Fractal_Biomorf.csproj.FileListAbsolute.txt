@@ -1,0 +1,11 @@
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\bin\Debug\Fractal_Biomorf.exe.config
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\bin\Debug\Fractal_Biomorf.exe
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\bin\Debug\Fractal_Biomorf.pdb
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\obj\Debug\Fractal_Biomorf.csproj.AssemblyReference.cache
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\obj\Debug\Fractal_Biomorf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\obj\Debug\Fractal_Biomorf.Form1.resources
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\obj\Debug\Fractal_Biomorf.Properties.Resources.resources
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\obj\Debug\Fractal_Biomorf.csproj.GenerateResource.cache
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\obj\Debug\Fractal_Biomorf.csproj.CoreCompileInputs.cache
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\obj\Debug\Fractal_Biomorf.exe
+C:\Users\Dungeon_Master\source\repos\Fractal_Biomorf\Fractal_Biomorf\Fractal_Biomorf\obj\Debug\Fractal_Biomorf.pdb

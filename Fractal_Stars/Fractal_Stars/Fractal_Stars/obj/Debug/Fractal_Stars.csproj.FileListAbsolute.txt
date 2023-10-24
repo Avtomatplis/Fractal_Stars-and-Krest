@@ -1,0 +1,11 @@
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\bin\Debug\Fractal_Stars.exe.config
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\bin\Debug\Fractal_Stars.exe
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\bin\Debug\Fractal_Stars.pdb
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\obj\Debug\Fractal_Stars.csproj.AssemblyReference.cache
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\obj\Debug\Fractal_Stars.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\obj\Debug\Fractal_Stars.Form1.resources
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\obj\Debug\Fractal_Stars.Properties.Resources.resources
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\obj\Debug\Fractal_Stars.csproj.GenerateResource.cache
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\obj\Debug\Fractal_Stars.csproj.CoreCompileInputs.cache
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\obj\Debug\Fractal_Stars.exe
+C:\Users\Dungeon_Master\source\repos\Fractal_Stars\Fractal_Stars\Fractal_Stars\obj\Debug\Fractal_Stars.pdb
